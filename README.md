@@ -4,7 +4,7 @@ Repository khusus untuk aplikasi dan alat sokongan operasi unit CDC, Pejabat Kes
 
 ## Aplikasi tersedia
 - [ACD Scabies v2.0](scabies/) — checklist ACD, panduan IACS 2020, data agregat kes/kontak per unit, epidemic curve, pemantauan susulan dan laporan situasi.
-- Google Form pasukan dibuka menerusi pautan di dalam modul Scabies.
+- Google Form baharu milik akaun CDC PKD Besut masih belum diwujudkan; pautan borang pihak lain telah dinyahaktifkan demi kerahsiaan.
 
 ## GitHub Pages
 Buka **Settings → Pages** untuk repository ini, pilih **Deploy from a branch**, branch **main**, folder **/(root)** dan Save.
