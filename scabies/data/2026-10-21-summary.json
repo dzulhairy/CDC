@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "published_snapshot_date": "2026-10-21",
+  "snapshot_type": "Semakan manual satu masa; bukan sambungan automatik Google Form",
+  "dashboard_scope": "Statistik agregat berpengawalan pendedahan sahaja. Tidak mengandungi sebarang rekod individu, kod bilik atau lokasi institusi.",
+  "study_activity": "ACD Scabies CDC PKD Besut",
+  "stage": "Laporan sementara; belum disahkan penyelaras CDC",
+  "denominator_definition": "Bilangan respons borang saringan, belum semakan pengulangan individu, bukan jumlah populasi institusi",
+  "counts": {
+    "responses": 210,
+    "assessed_ordinary_scabies": 37,
+    "other_clinical_assessments": 173,
+    "iacs_b_recorded": 24,
+    "ordinary_scabies_other_iacs_status": 13,
+    "onset_october_2026": 21,
+    "ordinary_scabies_onset_other_or_unknown": 16,
+    "contact_management_arranged_responses": 54
+  },
+  "caution": [
+    "Peratus penilaian skabies biasa dalam sampel saringan, bukan prevalens seluruh institusi, insiden atau attack rate.",
+    "IACS B direkod oleh petugas; keesahan pengelasan dan ketidakselarasan maklumat masih perlu disemak.",
+    "Epi-Link individu belum boleh disahkan: tiada kod ID saringan unik untuk pemadanan.",
+    "Onset Oktober 2026 tidak membuktikan jangkitan diperoleh pada Oktober atau wujudnya satu rantaian penularan.",
+    "Laporan rasmi memerlukan pengesahan, denominator populasi berisiko, dan audit rekod klinikal.",
+    "Jangan muat naik CSV mentah, nama, umur dan unit individu atau data pesakit ke GitHub Public."
+  ]
+}
